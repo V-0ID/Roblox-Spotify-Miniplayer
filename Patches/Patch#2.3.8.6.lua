@@ -1,5 +1,3 @@
---BQCxomvNshCbijCGDYSYG5HqFMp9453aPdTQTgpCYxjnL-irEB2UfnzkKMH6GxW_0lu4pt77A6-6sCQGKiAqOxRMbKzL3jVyFGePKSvkCZsICGRdgnA7cUWIRMDoCgbFdlW_UH-E02NFJH1H3j1xuRmt3q8HsHbhSbxXXXEUb5oUuO94WQK9zc2qZ9dkkPEGeCCYQH_hKJRSJMA-qv7d
-
 local API_SETTINGS = {
     RefreshRate = 0; --lower=faster|higher=slower
     API_TOKEN = "";
