@@ -1,5 +1,5 @@
 # Roblox-Spotify-Miniplayer
-
+> THIS SCRIPT ONLY WORKS FOR SYNAPSE X, DO NOT COMPLAIN TO ME IF YOU HAVE ISSUES ON A DIFFERENT EXECUTER
 # Script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/V-0ID/Roblox-Spotify-Miniplayer/main/Miniplayer.lua"))();
