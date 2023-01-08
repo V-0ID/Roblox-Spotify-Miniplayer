@@ -14,7 +14,7 @@ local API_SETTINGS = {
     SongChangeNotification = true;
     DraggableMiniplayer = false;
     
-    ver = "ver_2"
+    ver = "ver 2"
 }
 
 
