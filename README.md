@@ -12,7 +12,7 @@ Execute the script & enter an API token within the settings, this can be accesse
 then enter the APIToken within the textbox and press submit. Tokens can be obtained here: 
 [https://developer.spotify.com/console/get-user-player/]
 
-When creating the APIToken make sure the following scopes are enabled:
+### When creating the APIToken make sure the following scopes are enabled:
 
 > make scure the following scopes are enabled:
 
