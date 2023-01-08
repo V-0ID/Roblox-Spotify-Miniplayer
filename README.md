@@ -11,12 +11,12 @@ then enter the APIToken within the textbox and press submit. Tokens can be obtai
 When creating the APIToken make sure the following scopes are enabled:
 
 > make scure the following scopes are enabled:
-user-read-recently-played | 
-user-read-playback-position | 
-user-read-playback-state | 
-user-read-currently-playing | 
-user-follow-modify | 
-user-modify-playback-state
+> user-read-recently-played | 
+> user-read-playback-position | 
+> user-read-playback-state | 
+> user-read-currently-playing | 
+> user-follow-modify | 
+> user-modify-playback-state
 
 # Credit
 > All code was created by: Matteo❤#6537 | 
