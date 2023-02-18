@@ -29,7 +29,7 @@ then enter the APIToken within the textbox and press submit. Tokens can be obtai
 
 > user-modify-playback-state
 
-#FAQ
+# FAQ
 Q:Will this be updated?
 A:No, this script will no longer be updated as I have moved on from it and have started to work on other things.
 I do have plans to merge this script with another script I am making, though I do not plan to release that anytime
