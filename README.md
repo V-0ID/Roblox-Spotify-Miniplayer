@@ -48,7 +48,7 @@ meaing that skipping, pausing or even how fast the song updates on the miniplaye
 the *Refrest Rate* to.
 
 ## Can I use your script?
-Ofcourse, you can use this script or look at the code. Though please do not just copy and paste everything and claim it as your own
+Ofcourse, you can use this script or look at the code (Credit me though). Though please do not just copy and paste everything and claim it as your own
 I made this script open source to be a learning resource, when I was trying to figure out how to do this it took me a few weeks just
 to understand how to use the API properly and fix existing errors. There aren't any other scripts like this that are public that I am
 aware of, which is why I chose to make this open source.
