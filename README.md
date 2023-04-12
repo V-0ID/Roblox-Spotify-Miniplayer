@@ -9,6 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/V-0ID/Roblox-Spotify-
 ```
 
 ## Instructions
+### NOTICE: SPOTIFY HAS UPDATED THEIR API PAGE. STEPS FOR GETTING YOUR API TOKEN MAY BE DIFFERENT
 Execute the script & enter an API token within the settings, this can be accessed by pressing the cogwheel on the top right of the miniplayer
 then enter the APIToken within the textbox and press submit. Tokens can be obtained here: 
 [https://developer.spotify.com/console/get-user-player/]
